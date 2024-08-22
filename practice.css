@@ -1,0 +1,10 @@
+/* div + p{
+    background-color: blue;
+    color: black;
+    border: 2px solid green;
+    box-shadow: 2px 2px 2px white;
+} */
+ a:active{
+    background-color: blue;
+    color: brown;
+ }
